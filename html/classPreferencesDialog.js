@@ -1,0 +1,25 @@
+var classPreferencesDialog =
+[
+    [ "PreferencesDialog", "classPreferencesDialog.html#ab76bde23687c50e165c57ace8aaa2c2b", null ],
+    [ "~PreferencesDialog", "classPreferencesDialog.html#a0e3927d4dbbc927879b4c4906e728f2d", null ],
+    [ "done", "classPreferencesDialog.html#afd7f2c109ce1ca00b3ac80a9418ab5ca", null ],
+    [ "exec", "classPreferencesDialog.html#ac3904edeb671ff1611b630761c341945", null ],
+    [ "loadFileError", "classPreferencesDialog.html#a1722566e82a060fe05deccc6e6877541", null ],
+    [ "reconfigure", "classPreferencesDialog.html#add0a21db4fe03dc1aea4fce6ba6734b5", null ],
+    [ "restoreLayout", "classPreferencesDialog.html#a8b40a79db5ccae619ecfbca8413e1c60", null ],
+    [ "slotAddEngine", "classPreferencesDialog.html#ad6046c87aa67c930bb7e0782ca7747c3", null ],
+    [ "slotChangePieceString", "classPreferencesDialog.html#a13d0b0bcd49594c3cc2d5212551382e3", null ],
+    [ "slotDeleteEngine", "classPreferencesDialog.html#a09baeaab543642faf4d21469df21eede", null ],
+    [ "slotEngineDown", "classPreferencesDialog.html#a2640cbcfd652a233d43a99980e9908e1", null ],
+    [ "slotEngineNameChange", "classPreferencesDialog.html#a1d317f1202c30ddd88449fe86aaa8cf5", null ],
+    [ "slotEngineUp", "classPreferencesDialog.html#a1d5cb150b859f8f7ef821474faaba96f", null ],
+    [ "slotFileLoaded", "classPreferencesDialog.html#abbb0a83fb21d0ac3b1bc09dd04af22a0", null ],
+    [ "slotLoadLanguageFile", "classPreferencesDialog.html#a94e0e3d9dbb42104fa727625dc520839", null ],
+    [ "slotReset", "classPreferencesDialog.html#a09be30baa2ba8ee7234ede86f5fe5713", null ],
+    [ "slotSelectDataBasePath", "classPreferencesDialog.html#ac0dce174d50b26964017e35d1e607d35", null ],
+    [ "slotSelectEngine", "classPreferencesDialog.html#a1cc620502a36907dceeef3a2967b6044", null ],
+    [ "slotSelectEngineCommand", "classPreferencesDialog.html#a56ca8da636aea490faa707dbe475757b", null ],
+    [ "slotSelectEngineDirectory", "classPreferencesDialog.html#ae7f76b240fe119be0fd063a237c0b75a", null ],
+    [ "slotSelectToolPath", "classPreferencesDialog.html#aed2f24a70fcb7e1eccb47e5b03ab321e", null ],
+    [ "slotShowOptionDialog", "classPreferencesDialog.html#a9c285fa65d2098e68a6f0727d2dc1b8b", null ]
+];

@@ -1,0 +1,28 @@
+var classDatabase =
+[
+    [ "Database", "classDatabase.html#a4703c80e6969d33565ea340f768fdadf", null ],
+    [ "~Database", "classDatabase.html#a84d399a2ad58d69daab9b05330e1316d", null ],
+    [ "appendGame", "classDatabase.html#a1d27a25eb97b832dab69a04be29dfce2", null ],
+    [ "count", "classDatabase.html#a0190632da901cc35595591622a42b241", null ],
+    [ "deleted", "classDatabase.html#aa17c55e17038b44e0eeb695dd511e870", null ],
+    [ "filename", "classDatabase.html#ab6d749c8d656c8f9f3e4da2330cce03d", null ],
+    [ "getValidFlag", "classDatabase.html#aeb08f62e48a1ea104085cb67f165c751", null ],
+    [ "index", "classDatabase.html#a68d0d0790db81b0eb32188ce16f1406b", null ],
+    [ "index", "classDatabase.html#a3122912ea86e2121cf8a60b54e01e802", null ],
+    [ "isModified", "classDatabase.html#abfd166332f608e1a423d8cab19940455", null ],
+    [ "isReadOnly", "classDatabase.html#ad2bbb963544ec369c666729d054e3eab", null ],
+    [ "isUtf8", "classDatabase.html#a6b0b6caf78bb3dae0bbb5922f3765246", null ],
+    [ "loadGame", "classDatabase.html#a06788f28fc06b277de48297bb4bcf389", null ],
+    [ "loadGameHeaders", "classDatabase.html#a250b857015eef313ce7738fd49edaf75", null ],
+    [ "loadGameMoves", "classDatabase.html#a49e283731e44f7d6470d5e461171051e", null ],
+    [ "name", "classDatabase.html#aebcbd5d85ff567cf3132c874616b4c1b", null ],
+    [ "open", "classDatabase.html#ab57615b028b90bcc01cd1f83728240fa", null ],
+    [ "parseFile", "classDatabase.html#aa30e204258e296aa21c2eb8ff5b7947e", null ],
+    [ "progress", "classDatabase.html#abb62d4e6bee0389899b3674afe533153", null ],
+    [ "remove", "classDatabase.html#a8cd7ff020b0a0ce90d06e7ffe9531a4f", null ],
+    [ "remove", "classDatabase.html#ad862b76f3b795574fe5f39c09c1e6f06", null ],
+    [ "replace", "classDatabase.html#a4fd312ddad36392a861c485c7cf71435", null ],
+    [ "setModified", "classDatabase.html#a992b9bf20aa5020f8c7906a56d4c5e59", null ],
+    [ "setUtf8", "classDatabase.html#a0573f4f77e9d129419640513a24d6bcd", null ],
+    [ "undelete", "classDatabase.html#a0ce707205908882a440ae0b0c818406f", null ]
+];
